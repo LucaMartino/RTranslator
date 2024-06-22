@@ -1,3 +1,5 @@
+# RTranslator
+
 <img src="https://github.com/niedev/RTranslator/blob/v2.00/images/logo_beta_cut.png" width="280">
 
 RTranslator is an (<a href='https://github.com/niedev/RTranslator?tab=readme-ov-file#libraries-and-models'>almost</a>) open-source, free, and offline real-time translation app for Android.
@@ -20,7 +22,7 @@ The Conversation mode is the main feature of RTranslator. In this mode, you can 
 
 - The interlocutors' phone will translate the text received into his language.
 
-- The interlocutors' phone will convert the translated text into audio and will reproduce it from its speaker (or by the Bluetooth headset of the interlocutor if connected to his phone). 
+- The interlocutors' phone will convert the translated text into audio and will reproduce it from its speaker (or by the Bluetooth headset of the interlocutor if connected to his phone).
 
 All this in both directions.
 
@@ -69,7 +71,6 @@ I have optimized the AI models a lot to minimize RAM consumption and execution t
 If you have a pretty crappy phone (or if you want maximum speed) you can always use <a href="https://github.com/niedev/RTranslator/tree/v1.00">version 1.0 of RTranslator</a> (but since it uses Google APIs it's not free and needs some initial setup).
 <br /><br />
 
-
 <h3>Download</h3>
 
 To install the app, download the latest version of the app apk file from https://github.com/niedev/RTranslator/releases/ and install it (ignore the other files, those will be downloaded automatically by the app on the first start).
@@ -78,7 +79,6 @@ To install the app, download the latest version of the app apk file from https:/
 
 On the first launch, you will need to download the models for translation and speech recognition (1.2GB) and once done you can start translating.
 <br /><br />
-
 
 <h3>Supported languages</h3>
 
