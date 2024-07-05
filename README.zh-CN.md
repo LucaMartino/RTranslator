@@ -1,6 +1,3 @@
-<p align="left">
-<a href ="https://github.com/niedev/RTranslator/blob/v2.00/README.zh-CN.md"><img src="https://img.shields.io/badge/README-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-555555.svg"/></a>
-
 <img src="https://github.com/niedev/RTranslator/blob/v2.00/images/logo_beta_cut.png" width="280">
 
 RTranslator 是一个几乎开源、免费且离线的安卓实时翻译应用。
